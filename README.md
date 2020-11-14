@@ -48,7 +48,7 @@ Using what you have learned about Express, Express Routing, RESTful routing, CRU
 5. Sequelize init
 
 **Recommended Workflow:**
-1. Stub out your routes, write them `res.send("test")` for initial decleration.
+1. Stub out your routes, write them `res.send("test")` for initial declaration.
 2. Declare your model and migrate.
 3. Link your model to your server.
 4. Update your routes and make the magic happen!
